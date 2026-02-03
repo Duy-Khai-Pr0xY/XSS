@@ -11,3 +11,4 @@
 #### Mã độc không được lưu trên máy chủ mà được phản xạ lại với người dùng 
 # DOM-based XSS 
 #### Lỗ hổng này xuất hiện ở phía client> mã độc thực thi khi JS của trang web xử lý dữ liệu không an toàn và ghi nóp vào DOM
+# Note JS thường dùng thư viện EXPRESSJS 
