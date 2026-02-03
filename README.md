@@ -15,3 +15,6 @@
 #### req.query chính là ?x=aaa
 # Nên dùng alert(origin) để chạy xss
 #### Dùng webhook để gọi ra ngoài api
+# Cách để leak data ra bên ngoài
+#### Cách 1: dùng chính fetch
+#### Cách 2: tạo ra 1 tấm ảnh để cái nguồn (source) nó là url webhook
