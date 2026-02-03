@@ -14,3 +14,4 @@
 # Note JS thường dùng thư viện EXPRESSJS 
 #### req.query chính là ?x=aaa
 # Nên dùng alert(origin) để chạy xss
+#### Dùng webhook để gọi ra ngoài api
